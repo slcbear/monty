@@ -54,7 +54,7 @@ is twice that as in the alternative.
 <span id="montychoice">2</span>: It may seem to a casual viewer—and there are seldom any other kind—that Monty Hall makes this choice
   freely, but if we consider that he is always going to reveal a goat, the only time he has a choice is when the contestant
   chooses the car, leaving two goats unchosen. Otherwise, he is obligated to open one and only door: The one that has
-  the goat no chosen.
+  The Goat Not Chosen[<sup>4</sup>](#poem).
 
 <span id="goatnote">3</span>: This is misleading and unfair to goats, as they certainly have worth and 
   indeed are among the most charming, inquisitive and affectionate of the farm animals. 
@@ -63,4 +63,10 @@ is twice that as in the alternative.
 
   Many situations are possible, in fact, in which a goat is the better prize.
 
+<span id="poem">4</span>: *Two goats diverged in the woods, and I,  
+  I took the goat less traveled by,  
+  And that has made all the difference.*  
+
+  --(From *The Goat Not Taken*, not by Robert Frost) 
+ 
   #### Goats Are Cool, Cars Drool
