@@ -4,12 +4,16 @@ A recent discussion in the comments section of a [Vsauce2 YouTube video](https:/
 
 Nowadays, of course, it's all about Git and Python. But other than that ~~not much has changed~~ *everything* has changed.
 
+### What is this about?
+
 At issue here is a television game show that was watched by many Grandmothers, called *Let's Make a Deal*, and it took place in a magical land known as mid-20th century America. 
 
 Contestants were chosen from the audience based on the outlandishness of their costumes, their camera-readiness and their ability to project emotions such as "enthusiasm" and "disappointment"—so, basically any average American.
 
 Emerging onstage, blinking under the white-hot studio lights, each contestant is confronted by Monty Hall, a genial, unemotional man not dressed, as the contestant was likely to be, as a chicken; but in a polyester suit, considered very swanky at the time. This presented each contestant with a humiliating moment of self-awareness, but before they could
 think about that for very long, Monty Hall instructed them to choose one of three doors. 
+
+### Cars vs. Goats
 
 One of the doors concealed a desirable commodity such as a car, while behind both of the other two doors was a goat, innocently 
 chewing its cud, and it didn't ask to be placed in such a situation; in fact, none of this is the goat's fault
@@ -29,6 +33,8 @@ It was not the goat's fault. *It was never the goat's fault.*
 Monty Hall then gave the contestant a choice of switching to the remaining door. Intuitively, we might assume that 
 this was of no consequence, and that the contestant had the same chance of winning whether they switched or not, but 
 in fact, for reasons our brains seem ill-equipped to understand, if the contestant switched, they doubled their chances of winning.
+
+### A Mid-20th Century Utility Scheme
 
 Here, "prizes" and "winnings" are valued according to one mid-20th century utility scheme in which a "car" was a win, and a "goat" was a loss[<sup>3</sup>](#goatnote). 
 
