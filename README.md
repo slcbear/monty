@@ -61,7 +61,12 @@ is twice that as in the alternative.
   (The pigs get all the attention at the State Fair, but let's face it: Pigs are scary and smell bad.
   Goats are clean and smell nice, and will butt you playfully when you're not looking.)
 
-  Many situations are possible, in fact, in which a goat is the better prize.
+  Many situations are possible, in fact, in which a goat is the prize much preferable to a car. For instance:
+
+  - Post-apocalyptic hellscape  
+  - Amish upbringing  
+  - Gas crisis  
+  - ... and more!  
 
 <span id="poem">4</span>: *Two goats diverged in the woods, and I,  
   I took the goat less traveled by,  
