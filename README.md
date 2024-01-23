@@ -1,34 +1,36 @@
 # A no-frills Monty Hall simulation
 
-This unlikely scenario takes place in a magical land known as mid-20th century America. Contestants are
-chosen from the audience based on the outlandishness of their costumes, their camera-readiness and their 
-ability to project emotions such as "enthusiasm" and "disappointment"—so, basically any average American.
+A recent discussion in the comments section of a [Vsauce2 YouTube video](https://youtu.be/ytfCdqWhmdg) revealed that a lot of people wrote at one time a program to simulate the Monty Hall problem. I did too, when I was studying CompSci in college and first encountered this in a probability course. Of course in those days, everything was different. We had to use CVS for version control, and my favorite scripting language was Perl.  
 
-Finding themselves onstage, each contestant is confronted by Monty Hall, a genial, unemotional man wearing 
-a nice suit. This presents each contestant with a humiliating moment of self-awareness, but before they can
-think about that for very long, Monty Hall instructs them to choose one of three doors. One of the doors 
-conceals a desirable commodity such as a car, while behind both of the other two doors is an goat, innocently 
+Nowadays, of course, it's all about Git and Python. But other than that ~~not much has changed~~ *everything* has changed.
+
+At issue here is a television game show that was watched by many Grandmothers, called *Let's Make a Deal*, and it took place in a magical land known as mid-20th century America. 
+
+Contestants were chosen from the audience based on the outlandishness of their costumes, their camera-readiness and their ability to project emotions such as "enthusiasm" and "disappointment"—so, basically any average American.
+
+Emerging onstage, blinking under the white-hot studio lights, each contestant is confronted by Monty Hall, a genial, unemotional man not dressed, as the contestant was likely to be, as a chicken; but in a polyester suit, considered very swanky at the time. This presented each contestant with a humiliating moment of self-awareness, but before they could
+think about that for very long, Monty Hall instructed them to choose one of three doors. 
+
+One of the doors concealed a desirable commodity such as a car, while behind both of the other two doors was a goat, innocently 
 chewing its cud, and it didn't ask to be placed in such a situation; in fact, none of this is the goat's fault
 and previous versions of the show in which the goat was sacrificed to Baal did not test well with audiences.
 
-Nevertheless, there is a goat[<sup>1</sup>](#numgoat). If the contestant chooses the goat, the contestant loses. It seems important
-to point out that the goat is unaffected by the choice—in any case, it remains a goat, and has very little 
+Nevertheless, there was a goat[<sup>1</sup>](#numgoat). If the contestant chose a goat, the contestant lost. It seems important
+to point out that the goat was unaffected by the choice—in any case, it remained a goat, and had very little 
 to say about any of this.
 
-The contestant chooses what's behind either Door No. 1, Door No. 2, or Door No. 3 and announces their choice 
-in front of witnesses, including Monty Hall and the audience.
+The contestant chose what was behind Door No. 1, Door No. 2, or Door No. 3, announcing their choice in front of witnesses, including Monty Hall and the audience.
 
-At this point, Monty Hall, looking cool and unruffled in plaid-pattern polyster, opens one of the unchosen doors, 
-a trombone sounds a derisive descending note, and a goat stands there looking moderately surprised[<sup>2</sup>](#montychoice). 
-<em>It is not the goat's fault.</em>
+At that point, Monty Hall, looking cool and unruffled in plaid-pattern polyster, opened one of the unchosen doors, 
+as a trombone sounded a derisive descending note, to reveal a goat standing there, moderately surprised[<sup>2</sup>](#montychoice).  
 
-Monty Hall then gives the contestant a choice of switching to the remaining door. Intuitively, we might assume that 
-this is of no consequence, and that the contestant has the same chance of winning whether they switch or not, but 
-in fact, for reasons our brains seem ill-equipped to understand, should the contestant switch, they double their
-chances of winning.
+It was not the goat's fault. *It was never the goat's fault.* 
 
-Here, "prizes" and "winnings" are valued according to one mid-20th century utility scheme 
-in which a "car" was a win, and a "goat" was a loss[<sup>3</sup>](#goatnote). 
+Monty Hall then gave the contestant a choice of switching to the remaining door. Intuitively, we might assume that 
+this was of no consequence, and that the contestant had the same chance of winning whether they switched or not, but 
+in fact, for reasons our brains seem ill-equipped to understand, if the contestant switched, they doubled their chances of winning.
+
+Here, "prizes" and "winnings" are valued according to one mid-20th century utility scheme in which a "car" was a win, and a "goat" was a loss[<sup>3</sup>](#goatnote). 
 
 | Car | Goat |
 | --- | ---- |
